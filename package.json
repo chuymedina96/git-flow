@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/chuymedina96/git-flow/issues"
   },
-  "homepage": "https://github.com/chuymedina96/git-flow#readme"
+  "homepage": "https://github.com/chuymedina96/git-flow#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
 }
